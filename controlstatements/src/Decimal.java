@@ -11,10 +11,10 @@ class Decimal
         System.out.print("Input second floating-point  number: ");
         double y = input.nextDouble();
 
-        x = Math.round(x * 1000)/;
+        x = Math.round(x * 1000);
         
 
-        y = Math.round(y * 1000)/;
+        y = Math.round(y * 1000);
         
 
         if (x == y)
